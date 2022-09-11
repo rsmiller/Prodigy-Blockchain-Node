@@ -1,0 +1,27 @@
+{
+  "node": {
+    "network_id": 1,
+    "node_id": "",
+    "load_from": 1,
+    "db_directory": "C:\\node_db\\",
+    //"db_directory": "/home/admin/Downloads/node/db/",
+    "encrypt_files": false,
+    "ticker": "PBC",
+    "average_certs_per_year": 20000,
+    "max_coins_per_year": 4,
+    "document_db_type": "s3",
+    "s3_service_url": "",
+    "s3_service_access_key": "",
+    "s3_service_secret": "",
+    "s3_service_bucket": "",
+    "log_level": "info",
+    "log_type": "mysql",
+    "ip_seeds": "555.555.555.555"
+  },
+  "wallet": {
+    "Prefix": "pd",
+    "PrivateKey": "PB123456789!!!$%",
+    //"WalletDirectory": "/home/admin/Downloads/node/wallets/",
+    "WalletDirectory": "C:\\node_db\\wallets\\"
+  }
+}
