@@ -20,7 +20,7 @@ This project contains an example data import project. You will need to modify th
 Setup can be involving. Please read the [documentation regarding Prodigy Blockchain Node](https://prodigychain.bit.ai/rdc/j9xA8uLDLVOgIZtL) for setup.
 
 ## Support
-I created Prodigy Blockchain as a proof of concept and something to cure boredom. I am not really supporting this or these projects actively at this time so feel free to branch and do as you wish. You can reach me here: www.linkedin.com/in/more-guids
+I created Prodigy Blockchain as a proof of concept and something to cure boredom. I am not really supporting this or these Prodigy Blockchain projects actively at this time because I have a full-time job, so feel free to fork and do as you wish. If you have questions or want help implementing this for your company you can reach me here: www.linkedin.com/in/more-guids or ryan@prodigyblockchain.com. My one-time fee is between $2000 - $5000 depending on your cert process, how they are generated, how many you intend to import (7+ years?), database setup, on-prem/cloud, and other business factors. If you need product support beyond that we can negotiate and help one another in the venture.
 
 ## License
 Do as ye will but if ye a be making booty off this code a kickback of a new phone, camping equipment, computer, couch, or car would be appreciated, yyar.
